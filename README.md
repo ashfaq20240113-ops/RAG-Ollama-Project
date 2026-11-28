@@ -1,4 +1,4 @@
-# Local RAG Application with Ollama
+# RAG Application with Ollama
 
 A fully local Retrieval-Augmented Generation (RAG) application built with Python, LangChain, and Ollama. This project is designed to query custom text documents securely, running entirely on the local machine without the need for paid API keys or external cloud dependencies.
 
